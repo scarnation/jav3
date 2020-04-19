@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Grocery</string>
+    <string name="add">Add</string>
+    <string name="price">price</string>
+    <string name="item">Item</string>
+    <string name="item1">item</string>
+    <string name="price2">price</string>
+</resources>
